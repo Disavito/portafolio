@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
-  },
-preview: {
+  }, // <-- Add a comma here
+  preview: {
     host: true,
     allowedHosts: ['n8n-portafolio.mv7mvl.easypanel.host']
   }

@@ -153,24 +153,6 @@ export const PROJECTS: Project[] = [
     ],
     toolsUsed: ['Illustrator', 'Photoshop', 'Canva'],
   },
-  {
-    id: '14',
-    title: 'Gestión de Redes Sociales y Creación de Arte para LJHConstruction',
-    category: 'Social Media, Diseño Gráfico, Branding',
-    description: 'Desarrollo y ejecución de estrategias de contenido visual para las redes sociales de LJHConstruction, una empresa canadiense. Incluyó la creación de artes gráficos personalizados para campañas y publicaciones, fortaleciendo su presencia digital y engagement con la audiencia.',
-    imageUrl: 'https://imgur.com/VV5BTlm.jpeg',
-    link: '#',
-    detailedImages: [
-      'https://imgur.com/VV5BTlm.jpeg',
-      'https://imgur.com/UBdq7zH.jpeg',
-      'https://imgur.com/Op4GYj0.jpeg',
-      'https://imgur.com/1o1hPMF.jpeg',
-      'https://imgur.com/PcKgar5.jpeg',
-      'https://imgur.com/Ia0T12O.jpeg',
-      'https://imgur.com/TzfK2qY.jpeg',
-    ],
-    toolsUsed: ['Illustrator', 'Photoshop', 'Canva'],
-  },
 ];
 
 export const TESTIMONIALS: Testimonial[] = [

@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           <span>Diego Villanueva T.</span>
         </a>
         <p className="mb-8 text-lg">
-          Diseño Gráfico & Estrategia de Marketing
+          Diseño Gráfico & Publicidad
         </p>
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Diego Villanueva T. Todos los derechos reservados.
